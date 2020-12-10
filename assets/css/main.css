@@ -20,3 +20,8 @@
 	border-radius: 50px;
 	float: right;
 }
+
+body {
+	max-width: 800px;
+	margin: 0 auto;
+}
